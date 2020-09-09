@@ -1,0 +1,35 @@
+commit bd035e11e684c81ac99ed68b6cb7e64200a67b1d
+Author: JoseCh <josech.martinezp@gmail.com>
+Date:   Fri Aug 21 22:57:42 2020 -0500
+
+    Reemplazo una version por otra de la historia
+
+commit d4833ac15d522990b510f8d2e0fc6f93b6af7f58
+Author: JoseCh <josech.martinezp@gmail.com>
+Date:   Fri Aug 21 22:50:19 2020 -0500
+
+    Cambio de maestria
+
+commit acccce4e03c8dea21f1467668c3ccc4d051a2b4c
+Author: JoseCh <josech.martinezp@gmail.com>
+Date:   Fri Aug 21 22:49:37 2020 -0500
+
+    Cambio de vida
+
+commit bcd209b6bad8fb481d4132955e4b9ee234b43d3a
+Author: JoseCh <josech.martinezp@gmail.com>
+Date:   Fri Aug 21 22:48:10 2020 -0500
+
+    Arranco mi proyecto real con html y css
+
+commit a67c9fd6b456f4954e0f80403f1fb277376b9f76
+Author: JoseCh <josech.martinezp@gmail.com>
+Date:   Thu Aug 20 22:21:30 2020 -0500
+
+    Cambios al archivo para actualizar el lugar de nacimiento
+
+commit 5a0f5fba2ee933bc2ad291a8ff1cf0d6992b608f
+Author: JoseCh <josech.martinezp@gmail.com>
+Date:   Thu Aug 20 22:17:57 2020 -0500
+
+    Este es el primero commit de este archivo
