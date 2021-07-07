@@ -11,5 +11,6 @@ Un blog increíble para el[ curso de Git y Github](https://josech.com/cursos/git
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
 * Creado por mi
+* Incluye ejemplos en windows, linux y mac
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://josech.com/cursos/git-github/).
